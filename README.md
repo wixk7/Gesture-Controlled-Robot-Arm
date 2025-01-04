@@ -33,9 +33,9 @@ Watch the robot arm in action:
 ### Python Libraries
 
 Install the required libraries using pip:
-
+```bash
 pip install opencv-python mediapipe pyserial
-
+```
 ## Wiring Diagram
 
 Connect the servo motors to the appropriate PWM pins on the Arduino. Refer to the following table for connections:
@@ -69,9 +69,9 @@ cd Gesture-Controlled-Robot-Arm
 1.  Ensure your USB camera is connected.
 2.  Update the `COM` port in `arm.py` to match your Arduino port.
 3.  Run the script:
-
+```bash
 python arm.py
-
+```
 ## Usage Instructions
 
 1.  Position your hand in view of the camera.
