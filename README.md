@@ -15,7 +15,7 @@ This project showcases a gesture-controlled robotic arm that utilizes real-time 
 
 Watch the robot arm in action:
 
-[View Demo Video](assets/demo.mp4)
+[View Demo Video](Assets/demo.mp4)
 
 ## Hardware Requirements
 
