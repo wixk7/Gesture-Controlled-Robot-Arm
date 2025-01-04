@@ -97,12 +97,12 @@ Gesture-Controlled-Robot-Arm/
 *   Uses MediaPipe to detect hand landmarks in real-time.
 *   Extracts finger tip positions to determine gestures.
 
-1.  **Mapping to Servo Angles**:
+2.  **Mapping to Servo Angles**:
 
 *   Converts y-coordinates of finger tips to servo angles (0–180 degrees).
 *   Sends the angles to Arduino via serial communication.
 
-1.  **Servo Control**:
+3.  **Servo Control**:
 
 *   Arduino receives the angles and moves the servos accordingly.
 
