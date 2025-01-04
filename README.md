@@ -54,7 +54,7 @@ Connect the servo motors to the appropriate PWM pins on the Arduino. Refer to th
 ### 1\. Clone the Repository
 
 ```bash
-git clone https://github.com/username/Gesture-Controlled-Robot-Arm.git
+git clone https://github.com/wixk7/Gesture-Controlled-Robot-Arm.git
 cd Gesture-Controlled-Robot-Arm
 ```
 
