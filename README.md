@@ -42,11 +42,11 @@ Connect the servo motors to the appropriate PWM pins on the Arduino. Refer to th
 
 | Servo       | Arduino Pin |
 |-------------|-------------|
-| Thumb       | D3          |
-| Index       | D5          |
-| Middle      | D6          |
-| Ring        | D9          |
-| Pinky       | D10         |
+| Thumb       | D9          |
+| Index       | D8          |
+| Middle      | D7          |
+| Ring        | D6          |
+| Pinky       | D5         |
 
 
 ## Setup and Installation
